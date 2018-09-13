@@ -1,0 +1,14 @@
+(I took the first source of of a random "No zoom LUA" lua on the topic but it was trash so i took it and fixed it. dont know who the original
+maker of this was but thanks for the code dude)
+
+This lua is still kind of glitchy so i have found a quick reset if you don't feel like recoding the lua.
+- The first quick fix is to just switch from gun to knife to gun fast to reset fov.
+- Reloading the lua should also work just not as easy.
+
+                                           -= IMPORTANT - IMPORTANT =-
+|------------------------------------------------------------------------------------------------------------------------|                                          
+|In the code there is a variable called "dfov" which is how you change the fov scale. You might also have to fuck with   |
+|the 15s and 40s, idk, i dont feel like testing because it works for my favor, 80.                                       |
+|------------------------------------------------------------------------------------------------------------------------|
+
+I was also to lazy to make a slider so if you want go for it.
